@@ -1,0 +1,33 @@
+11.781, 5.197, 100
+12.381, 7.105, 100
+12.98, 9.013, 100
+13.58, 10.921, 100
+14.18, 12.829, 97.681
+14.779, 14.737, 95.045
+15.379, 16.645, 92.334
+15.978, 18.553, 89.541
+16.578, 20.461, 86.658
+17.265, 22.335, 83.682
+18.178, 24.114, 80.59
+19.163, 25.855, 77.374
+20.181, 27.576, 74.019
+21.179, 29.309, 70.504
+22.098, 31.085, 66.805
+22.878, 32.926, 62.889
+23.476, 34.834, 58.713
+23.881, 36.791, 54.217
+24.102, 38.778, 49.312
+24.161, 40.777, 43.862
+24.09, 42.775, 37.629
+23.908, 44.767, 30.133
+23.639, 46.748, 20
+23.571, 47.171, 0
+23.571, 47.171, 0
+20.42, 66.921, 0
+endData
+127
+100
+200
+11.781, 5.197, 14.375, 13.45, 14.375, 13.45, 16.969, 21.704
+16.969, 21.704, 20.742, 29.957, 25.929, 32.787, 23.571, 47.171
+#PATH.JERRYIO-DATA {"appVersion":"0.8.3","format":"LemLib v0.5","gc":{"robotWidth":14.5,"robotHeight":15,"robotIsHolonomic":false,"showRobot":true,"uol":2.54,"pointDensity":2,"controlMagnetDistance":1.968503937007874,"fieldImage":{"displayName":"VURC 2025 - High Stakes","signature":"VURC 2025 - High Stakes","origin":{"__type":"built-in"}},"coordinateSystem":"VEX Gaming Positioning System"},"paths":[{"segments":[{"controls":[{"uid":"0hXKgFutAO","x":11.781,"y":5.197,"lock":false,"visible":true,"heading":223,"__type":"end-point"},{"uid":"A7xfGc5uev","x":16.96862663300706,"y":21.70361861175612,"lock":false,"visible":true,"heading":0,"__type":"end-point"}],"speedProfiles":[],"lookaheadKeyframes":[],"uid":"EnAyewAShU"},{"controls":[{"uid":"A7xfGc5uev","x":16.96862663300706,"y":21.70361861175612,"lock":false,"visible":true,"heading":0,"__type":"end-point"},{"uid":"tCTYahWuUM","x":20.741528608105906,"y":29.956841682284846,"lock":false,"visible":true,"__type":"control"},{"uid":"91R8Se20ca","x":25.929268823866817,"y":32.78651816360898,"lock":false,"visible":true,"__type":"control"},{"uid":"NJtAmq9zZL","x":23.57120508943004,"y":47.17070694367334,"lock":false,"visible":true,"heading":0,"__type":"end-point"}],"speedProfiles":[],"lookaheadKeyframes":[],"uid":"QwlkRg7nsu"}],"pc":{"speedLimit":{"minLimit":{"value":0,"label":"0"},"maxLimit":{"value":127,"label":"127"},"step":1,"from":20,"to":100},"bentRateApplicableRange":{"minLimit":{"value":0,"label":"0"},"maxLimit":{"value":1,"label":"1"},"step":0.001,"from":0,"to":0.1},"maxDecelerationRate":127},"name":"Scoring","uid":"6pFYaRGpVb","lock":true,"visible":true}]}
